@@ -24,7 +24,7 @@ public class MainActivity extends AppCompatActivity {
         });
     }
     public void masodikMegnyitas(){
-        Intent intent = new Intent(this, MasodikActivity.class);
+        Intent intent = new Intent(this, Adatbekeres.class);
         startActivity(intent);
     }
 }
