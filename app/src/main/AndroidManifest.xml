@@ -9,7 +9,8 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.Kozosprojekt3">
-        <activity android:name=".Adatbekeres"></activity>
+        <activity android:name=".harmadikprojekt"></activity>
+        <activity android:name=".Adatbekeres" />
         <activity android:name=".MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
